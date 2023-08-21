@@ -28,7 +28,7 @@ EPA’s fuel economy values are good estimates of the fuel economy a typical dri
 
 
 ## Conclusion
-The problem can be solved using machine learning. The best models to solve this problem are shown in the picture below:
+The task can be solved using machine learning. The best models to solve this problem are shown in the picture below:
 
 ![img](img/models.png)
 

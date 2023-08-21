@@ -5,7 +5,7 @@ In this project, I will walk through solving a machine learning problem using th
 ## Сontent
 1. [Structure of project](#Structure-of-this-project)
 2. [Data description](#Data-description)
-3. Conclusion
+3. [Conclusion](#Conclusion)
 
 
 ## Structure of this project:

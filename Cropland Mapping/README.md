@@ -1,3 +1,4 @@
+![img](img/img1.jpg)
 ## Intro
 In this project, I will try to use machine learning for prediction cropland pieces.
 
@@ -38,12 +39,14 @@ In this project, I used 5 machine learning algorithms:
 - Random Forest
 - XGBoost
 
-  All models were able to solve this problem quite accurately. Knn had the best result:
-  [img]()
-  Precision-Recall curve for KNN, SVM and Logistic Regression:
-  [img]()
-  ROC for KNN, SVM and Logistic Regression:
-  [img]()
+All models were able to solve this problem quite accurately. KNN had the best result:
+
+![img](img/img4.png)
+
+Precision-Recall curve for KNN, SVM and Logistic Regression:
+![img](img/img2.png)
+ROC for KNN, SVM and Logistic Regression:
+![img](img/img3.png)
 
 ## Conclusion
   1. First and foremost, results confirm that the combination of optical and radar-based information leads to very accurate remote cropland mapping
